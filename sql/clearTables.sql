@@ -1,0 +1,4 @@
+DELETE FROM Arrivals;
+DELETE FROM Reservations;
+DELETE FROM Events;
+DELETE FROM Users;
